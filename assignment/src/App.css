@@ -1,0 +1,34 @@
+.ss{
+  padding:10px;
+  font-size: 12px;
+  height: 500px;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+.body{
+  border: 2px solid black;
+}
+
+#root .h2, h2 {
+  font-size: 15px!important;
+}
+
+#root .h3, h3{
+  font-size: 15px!important;
+}
+
+#root .col-sm-6{
+  /* border: 2px solid black; */
+  /* border: 2px solid black; */
+  padding: 19px;
+  /* margin-right: 6%; */
+  margin-bottom: 15px;
+}
+#header{
+  border-bottom:2px solid black ;
+  height: 80px;
+}
+svg{
+  /* padding-top: 20px; */
+  /* height: 30px; */
+}
